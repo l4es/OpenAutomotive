@@ -1,0 +1,15 @@
+[submodule "as"]
+	path = as
+	url = git@github.com:parai/as.git
+[submodule "TrampolineRTOS/trampoline"]
+	path = TrampolineRTOS/trampoline
+	url = git@github.com:TrampolineRTOS/trampoline.git
+[submodule "Freenivi/freenivi-os"]
+	path = Freenivi/freenivi-os
+	url = git@github.com:Openwide-Ingenierie/freenivi-os.git
+[submodule "Freenivi/meta-freenivi"]
+	path = Freenivi/meta-freenivi
+	url = git@github.com:Openwide-Ingenierie/meta-freenivi.git
+[submodule "Freenivi/meta-freenivi-sdk"]
+	path = Freenivi/meta-freenivi-sdk
+	url = git@github.com:Openwide-Ingenierie/meta-freenivi-sdk.git

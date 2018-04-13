@@ -13,3 +13,18 @@
 [submodule "Freenivi/meta-freenivi-sdk"]
 	path = Freenivi/meta-freenivi-sdk
 	url = git@github.com:Openwide-Ingenierie/meta-freenivi-sdk.git
+[submodule "CAN-Driver/ESP32-CAN-Driver"]
+	path = CAN-Driver/ESP32-CAN-Driver
+	url = git@github.com:ThomasBarth/ESP32-CAN-Driver.git
+[submodule "CAN-Driver/can_bridge"]
+	path = CAN-Driver/can_bridge
+	url = git@github.com:russery/can_bridge.git
+[submodule "CAN-Driver/canLogger"]
+	path = CAN-Driver/canLogger
+	url = git@github.com:hayden-t/canLogger.git
+[submodule "CAN-Driver/_CANcrusher_ARM"]
+	path = CAN-Driver/_CANcrusher_ARM
+	url = git@github.com:afterhoursengineering/_CANcrusher_ARM.git
+[submodule "CAN-Driver/CAN"]
+	path = CAN-Driver/CAN
+	url = git@github.com:kevinkrieger/CAN.git

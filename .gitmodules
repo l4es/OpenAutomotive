@@ -28,3 +28,6 @@
 [submodule "CAN-Driver/CAN"]
 	path = CAN-Driver/CAN
 	url = git@github.com:kevinkrieger/CAN.git
+[submodule "OSCAR"]
+	path = OSCAR
+	url = git@github.com:OSCARAdapter/OSCAR.git

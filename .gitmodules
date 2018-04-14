@@ -31,3 +31,6 @@
 [submodule "OSCAR"]
 	path = OSCAR
 	url = git@github.com:OSCARAdapter/OSCAR.git
+[submodule "rusEFI"]
+	path = rusEFI
+	url = git@github.com:rusefi/rusefi.git

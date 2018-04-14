@@ -1,5 +1,5 @@
 [submodule "as"]
-	path = as
+	path = autoSoftware
 	url = git@github.com:parai/as.git
 [submodule "TrampolineRTOS/trampoline"]
 	path = TrampolineRTOS/trampoline

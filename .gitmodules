@@ -112,3 +112,15 @@
 [submodule "Traccar/traccar-client-ios"]
 	path = Traccar/traccar-client-ios
 	url = https://github.com/traccar/traccar-client-ios.git
+[submodule "OpenVehicles/Open-Vehicle-Monitoring-System-3"]
+	path = OpenVehicles/Open-Vehicle-Monitoring-System-3
+	url = https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3.git
+[submodule "OpenVehicles/Open-Vehicle-Monitoring-System"]
+	path = OpenVehicles/Open-Vehicle-Monitoring-System
+	url = https://github.com/openvehicles/Open-Vehicle-Monitoring-System.git
+[submodule "OpenVehicles/Open-Vehicle-Android"]
+	path = OpenVehicles/Open-Vehicle-Android
+	url = https://github.com/openvehicles/Open-Vehicle-Android.git
+[submodule "OpenVehicles/Open-Vehicle-iOS"]
+	path = OpenVehicles/Open-Vehicle-iOS
+	url = https://github.com/openvehicles/Open-Vehicle-iOS.git

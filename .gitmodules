@@ -91,3 +91,24 @@
 [submodule "OpenXC/nightvision"]
 	path = OpenXC/nightvision
 	url = https://github.com/openxc/nightvision.git
+[submodule "Traccar/traccar"]
+	path = Traccar/traccar
+	url = https://github.com/traccar/traccar.git
+[submodule "Traccar/traccar-web"]
+	path = Traccar/traccar-web
+	url = https://github.com/traccar/traccar-web.git
+[submodule "Traccar/traccar-client-android"]
+	path = Traccar/traccar-client-android
+	url = https://github.com/traccar/traccar-client-android.git
+[submodule "Traccar/traccar-manager-ios"]
+	path = Traccar/traccar-manager-ios
+	url = https://github.com/traccar/traccar-manager-ios.git
+[submodule "Traccar/traccar-manager-android"]
+	path = Traccar/traccar-manager-android
+	url = https://github.com/traccar/traccar-manager-android.git
+[submodule "Traccar/traccar-manager-assets"]
+	path = Traccar/traccar-manager-assets
+	url = https://github.com/traccar/traccar-manager-assets.git
+[submodule "Traccar/traccar-client-ios"]
+	path = Traccar/traccar-client-ios
+	url = https://github.com/traccar/traccar-client-ios.git

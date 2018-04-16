@@ -34,3 +34,60 @@
 [submodule "rusEFI"]
 	path = rusEFI
 	url = git@github.com:rusefi/rusefi.git
+[submodule "MountainBoard/eboardControlUnit"]
+	path = MountainBoard/eboardControlUnit
+	url = https://github.com/Lukaszm94/eboardControlUnit.git
+[submodule "MountainBoard/eboardDriversUnitControllerV1"]
+	path = MountainBoard/eboardDriversUnitControllerV1
+	url = https://github.com/Lukaszm94/Eboard_DriversUnitControllerV1.git
+[submodule "MountainBoard/eboardControlUnitV1"]
+	path = MountainBoard/eboardControlUnitV1
+	url = https://github.com/Lukaszm94/Eboard_ControlUnitV1.git
+[submodule "Gnuradio/gr-gsm"]
+	path = Gnuradio/gr-gsm
+	url = https://github.com/ptrkrysik/gr-gsm.git
+[submodule "OpenXC/vi-firmware"]
+	path = OpenXC/vi-firmware
+	url = https://github.com/openxc/vi-firmware.git
+[submodule "OpenXC/uds-c"]
+	path = OpenXC/uds-c
+	url = https://github.com/openxc/uds-c.git
+[submodule "OpenXC/isotp-c"]
+	path = OpenXC/isotp-c
+	url = https://github.com/openxc/isotp-c.git
+[submodule "OpenXC/openxc-c"]
+	path = OpenXC/openxc-c
+	url = https://github.com/openxc/openxc-c.git
+[submodule "OpenXC/emhashmap"]
+	path = OpenXC/emhashmap
+	url = https://github.com/openxc/emhashmap.git
+[submodule "OpenXC/emqueue"]
+	path = OpenXC/emqueue
+	url = https://github.com/openxc/emqueue.git
+[submodule "OpenXC/diagnostic-tool"]
+	path = OpenXC/diagnostic-tool
+	url = https://github.com/openxc/diagnostic-tool.git
+[submodule "OpenXC/openxc-android"]
+	path = OpenXC/openxc-android
+	url = https://github.com/openxc/openxc-android.git
+[submodule "OpenXC/openxc-ios-app-demo"]
+	path = OpenXC/openxc-ios-app-demo
+	url = https://github.com/openxc/openxc-ios-app-demo.git
+[submodule "OpenXC/openxc-ios-framework"]
+	path = OpenXC/openxc-ios-framework
+	url = https://github.com/openxc/openxc-ios-framework.git
+[submodule "OpenXC/rearview-camera"]
+	path = OpenXC/rearview-camera
+	url = https://github.com/openxc/rearview-camera.git
+[submodule "OpenXC/android-webcam"]
+	path = OpenXC/android-webcam
+	url = https://github.com/openxc/android-webcam.git
+[submodule "OpenXC/emlist"]
+	path = OpenXC/emlist
+	url = https://github.com/openxc/emlist.git
+[submodule "OpenXC/rain"]
+	path = OpenXC/rain
+	url = https://github.com/openxc/rain.git
+[submodule "OpenXC/nightvision"]
+	path = OpenXC/nightvision
+	url = https://github.com/openxc/nightvision.git

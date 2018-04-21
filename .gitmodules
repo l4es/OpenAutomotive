@@ -124,3 +124,6 @@
 [submodule "OpenVehicles/Open-Vehicle-iOS"]
 	path = OpenVehicles/Open-Vehicle-iOS
 	url = https://github.com/openvehicles/Open-Vehicle-iOS.git
+[submodule "Telematic/gsmlib"]
+	path = Telematic/gsmlib
+	url = git@github.com:vbouchaud/gsmlib.git

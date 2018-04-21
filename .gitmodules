@@ -127,3 +127,6 @@
 [submodule "Telematic/gsmlib"]
 	path = Telematic/gsmlib
 	url = git@github.com:vbouchaud/gsmlib.git
+[submodule "Telematic/uptane"]
+	path = Telematic/uptane
+	url = git@github.com:uptane/uptane.git

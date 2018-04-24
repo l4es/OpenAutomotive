@@ -130,3 +130,6 @@
 [submodule "Telematic/uptane"]
 	path = Telematic/uptane
 	url =  https://github.com/uptane/uptane.git
+[submodule "CANpie"]
+	path = CANpie
+	url = https://github.com/canpie/CANpie.git

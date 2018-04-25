@@ -133,3 +133,9 @@
 [submodule "CANpie"]
 	path = CANpie
 	url = https://github.com/canpie/CANpie.git
+[submodule "CANsniffer"]
+	path = CANsniffer
+	url = https://github.com/majbthrd/CANsniffer.git
+[submodule "Demo/SAMC21demoCAN"]
+	path = Demo/SAMC21demoCAN
+	url = https://github.com/majbthrd/SAMC21demoCAN.git

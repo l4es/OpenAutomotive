@@ -140,8 +140,8 @@
 	path = Demo/SAMC21demoCAN
 	url = https://github.com/majbthrd/SAMC21demoCAN.git
 [submodule "Demo/GPS_NMEA_parser"]
-	path = Demo/GPS_NMEA_parser
+	path = Telematic/GPS_NMEA_parser
 	url = https://github.com/MaJerle/GPS_NMEA_parser.git
 [submodule "Demo/GSM_AT_commands_parser"]
-	path = Demo/GSM_AT_commands_parser
+	path = Telematic/GSM_AT_commands_parser
 	url = https://github.com/MaJerle/GSM_AT_commands_parser.git

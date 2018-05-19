@@ -145,3 +145,18 @@
 [submodule "Demo/GSM_AT_commands_parser"]
 	path = Telematic/GSM_AT_commands_parser
 	url = https://github.com/MaJerle/GSM_AT_commands_parser.git
+[submodule "CAN-Driver/linux-can/can-utils"]
+	path = CAN-Driver/linux-can/can-utils
+	url = https://github.com/linux-can/can-utils.git
+[submodule "CAN-Driver/linux-can/can-tests"]
+	path = CAN-Driver/linux-can/can-tests
+	url = https://github.com/linux-can/can-tests.git
+[submodule "CAN-Driver/linux-can/can-misc"]
+	path = CAN-Driver/linux-can/can-misc
+	url = https://github.com/linux-can/can-misc.git
+[submodule "CAN-Driver/linux-can/canqv"]
+	path = CAN-Driver/linux-can/canqv
+	url = https://github.com/kurt-vd/canqv.git
+[submodule "CAN-Driver/linux-can/test-can-j1939"]
+	path = CAN-Driver/linux-can/test-can-j1939
+	url = https://github.com/kurt-vd/test-can-j1939.git

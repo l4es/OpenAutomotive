@@ -160,3 +160,6 @@
 [submodule "CAN-Driver/linux-can/test-can-j1939"]
 	path = CAN-Driver/linux-can/test-can-j1939
 	url = https://github.com/kurt-vd/test-can-j1939.git
+[submodule "CAN-Driver/libcan-prius"]
+	path = CAN-Driver/libcan-prius
+	url = https://github.com/jmaye/libcan-prius.git
